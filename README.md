@@ -23,4 +23,4 @@ import re
 
 ##### Example
 
-![alt text](https://github.com/mohit11R/SQl-Notes/blob/main/dis.PNG?raw=true)
+![alt text](https://github.com/mohit11R/Best-GPU-Prices/blob/main/bs4_Project/example_web_scraping.PNG?raw=true)
